@@ -1,2 +1,2 @@
-# first_demo_gitbash
+Python function
 add function for any two inputs.
